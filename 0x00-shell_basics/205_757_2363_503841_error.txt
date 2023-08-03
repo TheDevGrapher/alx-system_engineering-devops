@@ -22,5 +22,3 @@ cat:                           application/octet-stream
 fake_school0:                  text/plain
 fake_school1:                  text/plain
 false:                         application/octet-stream
-file:                          application/octet-stream
-file_school0:                  ...
